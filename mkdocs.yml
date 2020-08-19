@@ -6,7 +6,7 @@ theme:
         - about
         - search
 extra:
-    logo: files/switchless_docs_logo.png
+    logo: files/asyncauto-handbook-logo.png
     sidebars:
         - about
         - navigation
