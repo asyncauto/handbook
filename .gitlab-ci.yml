@@ -1,0 +1,17 @@
+image: ruby
+deploy_to_s3:
+ type: deploy
+ image: ruby
+ only: 
+  - master
+ script:
+  - apt update
+  - apt install -yq python3-pip nodejs git
+  - pip3 install mkdocs>=1.1.2
+  - mkdocs build --verbose
+  - pip3 install awscli
+  - echo "Pushing the static files"
+  # - mkdir ~/.aws/
+  # - touch ~/.aws/credentials
+  # - printf "[eb-cli]\naws_access_key_id = %s\naws_secret_access_key = %s\n" "$AWS_ACCESS_KEY_ID" "$AWS_SECRET_KEY" >> ~/.aws/credentials
+  - aws s3 sync public/ s3://handbook.asyncauto.com --exclude ".DS_Store/*" --cache-control "max-age=120000" --delete
