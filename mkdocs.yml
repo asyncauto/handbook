@@ -14,6 +14,11 @@ extra:
         - about
         - navigation
 
+nav:
+    - Milestones: milestones.md
+    - Philosophies: 
+        - Document First Approach: philosophies/document_first_approach.md
+
 plugins:
     - search
     # - encryptcontent:
