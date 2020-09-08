@@ -17,7 +17,7 @@
 - Submit code for review
 	- Include screenshots
 	- If the change is complex, include a video walkthrough
-	- Find more details here: [How to submit code for review process](../How To/submit code for review)
+	- Find more details here: [How to submit code for review process](../how_to/submit code for review)
 
 **Setting up local development environment**  
 - Install sailsjs
