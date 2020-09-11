@@ -26,6 +26,7 @@ nav:
         - Wasting some work: philosophies/wasting_some_work.md
         - All advice sum up to zero: philosophies/all_advice_sum_up_to_zero.md
         # - All advice sum up to zero: philosophies/all_advice_sum_up_to_zero.md
+    - Roles
     - Recommended readings: recommended_readings.md
 
 plugins:
