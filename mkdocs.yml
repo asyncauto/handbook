@@ -26,7 +26,8 @@ nav:
         - Wasting some work: philosophies/wasting_some_work.md
         - All advice sum up to zero: philosophies/all_advice_sum_up_to_zero.md
         # - All advice sum up to zero: philosophies/all_advice_sum_up_to_zero.md
-    - Roles: roles/introduction.md
+    - Roles: 
+        - Introduction: roles/introduction.md
         - Front-end Developer Manual: roles/frontend_developer.md
     - Recommended readings: recommended_readings.md
 
