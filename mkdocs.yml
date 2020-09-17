@@ -29,6 +29,10 @@ nav:
         - Introduction: roles/introduction.md
         - Front-end Developer Manual: roles/frontend_developer.md
     - Recommended readings: recommended_readings.md
+    - How to: 
+        - Create git branches: how_to/create git branches.md
+        - Submit code for review: how_to/submit code for review.md
+        - Create a document for demo: how_to/create_demo_document.md
 
 plugins:
     - search
