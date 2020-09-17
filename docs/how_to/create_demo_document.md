@@ -19,13 +19,13 @@ To make an effective doc:
 
 Example:
 
-![](Pasted image.png)
+![](/files/Pasted image.png)
 
 
 - Use screenshots whenever relevant  
 	- Avoid opening up a new page if screenshots can do the job  
-![](files/Pasted image 1.png)  
+![](/files/Pasted image 1.png)  
 
 
 - Include links if relevant. This will help us quickly dig into the problem further if needed. Ex:  
-![](files/Pasted image 2.png)
+![](/files/Pasted image 2.png)
