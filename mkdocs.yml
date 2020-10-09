@@ -28,6 +28,7 @@ nav:
     - Roles: 
         - Introduction: roles/introduction.md
         - Front-end Developer Manual: roles/frontend_developer.md
+        - QA Manual: roles/qa_engineer.md
     - Recommended readings: recommended_readings.md
     - How to: 
         - Create git branches: how_to/create git branches.md
