@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "docs/All advice sum up to zero.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md"
+                "file": "docs/All advice sum up to zero.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "docs/wasting_some_work.md",
-    "docs/recommended_readings.md",
-    "docs/qa_engineer.md",
+    "docs/All advice sum up to zero.md",
+    "docs/Assume that some portion of your work will be wasted.md",
+    "docs/Recommended readings.md",
+    "docs/QA Strategy.md",
+    "docs/premature_optimisation.md",
+    "docs/milestones.md",
+    "docs/iteration.md",
+    "docs/introduction.md",
     "docs/How to create demo docs.md",
-    "docs/frontend_developer.md",
-    "docs/documentation_as_products.md",
-    "docs/document_first_approach_philisophy.md",
-    "docs/do_not_over_apply_any_guideline.md",
-    "docs/create_demo_document.md"
+    "docs/Document first approach.md"
   ]
 }

@@ -2,7 +2,7 @@
 Keywords: [[roles]]
 
 - Developer
-    - [Front-end developer](Front-end%20Developer%20Handbook)
+    - [[Front-end Developer Handbook]]
     - Backend developer
     - Fullstack developer
  - Product Manager
