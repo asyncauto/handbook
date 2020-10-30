@@ -18,7 +18,7 @@ extra:
 nav:
     - Milestones: milestones.md
     - Philosophies: 
-        - Document First Approach: philosophies/document_first_approach.md
+        - Documents As Products: philosophies/documentation_as_products.md
         - Premature Optimisation: philosophies/premature_optimisation.md
         - Build what you are sure of: philosophies/build_what_you_are_sure_of.md
         - Iteration: philosophies/iteration.md

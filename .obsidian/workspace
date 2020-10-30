@@ -1,0 +1,82 @@
+{
+  "main": {
+    "id": "034e8b35d5403f98",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba6f7bcc63c7b90f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a04615407064b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2c55b7df4ee6bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "044bdf9f139d636c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e32c82d1cfc3dc09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22ab18ef157b177b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c4450f529acedbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1543dfa8b656551",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "docs/how_to/submit code for review.md",
+    "docs/how_to/create git branches.md",
+    "docs/how_to/create_demo_document.md",
+    "Pasted image 1.png",
+    "Pasted image.png",
+    "Pasted image 2.png"
+  ]
+}
