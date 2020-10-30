@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ]
@@ -72,11 +77,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
-    "docs/how_to/submit code for review.md",
-    "docs/how_to/create git branches.md",
-    "docs/how_to/create_demo_document.md",
-    "Pasted image 1.png",
-    "Pasted image.png",
-    "Pasted image 2.png"
+    "docs/wasting_some_work.md",
+    "docs/recommended_readings.md",
+    "docs/qa_engineer.md",
+    "docs/How to create demo docs.md",
+    "docs/frontend_developer.md",
+    "docs/documentation_as_products.md",
+    "docs/document_first_approach_philisophy.md",
+    "docs/do_not_over_apply_any_guideline.md",
+    "docs/create_demo_document.md"
   ]
 }

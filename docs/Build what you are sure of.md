@@ -1,4 +1,6 @@
 # Build what you are sure of
+Keywords: [[philosophies]]
+
 This is related to pre-mature optimisation. Premature optimisation tells you that when you have high business uncertainty, avoid optimising too early.
 
 This begs the question – when is it the right time to optimise? The right time to optimise is when you are very sure that, “what you are building” is useful for the customer.

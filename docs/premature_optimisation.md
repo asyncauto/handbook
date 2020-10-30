@@ -1,4 +1,5 @@
 # Premature Optimisation
+Keywords: [[philosophies]]
 
 ## What is premature optimisation? 
 Most of engineering is about optimising something – making something stronger, making something faster, making something cheaper etc. This activity of constantly optimising something makes business sense when the business landscape is fairly settled and what to optimise is fairly clear.

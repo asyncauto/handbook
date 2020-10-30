@@ -1,4 +1,5 @@
 # Front-end Developer Handbook  
+Keywords: [[roles]]
 
 **General guidelines**  
 - Closure on a weekly basis  

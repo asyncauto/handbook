@@ -1,4 +1,5 @@
 # Assume that some % of your work will be wasted
+Keywords: [[philosophies]]
 
 Our object with building something is to be perfect at it. Although you might have build something with 100% confidence that will be required by the customer, you will still get it wrong sometimes.
 

@@ -1,4 +1,5 @@
 # How to create demo docs
+Keywords: [[how to]]
 
 Purpose of the demo doc:  
 - Make communication easier and faster.  

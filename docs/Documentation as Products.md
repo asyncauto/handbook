@@ -1,8 +1,7 @@
 # Documentation as Products
+Keywords: [[philosophies]]
 
-Keywords: [[]]
-
-[Document first approach philosophy](document_first_approach_philisophy.md)
+[[Document first approach]]
 
 ## Why?
  - Save time

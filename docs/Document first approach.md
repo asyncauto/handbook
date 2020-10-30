@@ -1,4 +1,5 @@
 # Document first approach
+Keywords: [[philosophies]]
 
 There are two ways to solve problems
 - people solve problems 

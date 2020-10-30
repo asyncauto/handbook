@@ -1,3 +1,6 @@
+## Submit code for review
+
+Keywords: [[how to]]
 
 ## Why is code review important?  
 helps catch developer blindspots

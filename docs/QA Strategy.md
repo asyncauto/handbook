@@ -1,5 +1,7 @@
 
 # QA Strategy
+Keywords: [[roles]]
+
 
 QA Engineer ensures that all functions are working as expected before anything is deployed to production.  
 
